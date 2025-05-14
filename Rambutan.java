@@ -10,5 +10,7 @@ package ulasan;
  * @author DEDDY PC
  */
 public class Rambutan extends Flora{
-    
+    public void berbuah(){
+        System.out.println("Berbuah di musim kemarau");
+    }
 }
